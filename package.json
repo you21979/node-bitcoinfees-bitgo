@@ -4,14 +4,13 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
-    "request-promise" : "4.1.x",
+    "request-promise": "4.1.x",
     "request": "^2.34"
   },
   "readmeFilename": "README.md",
   "description": "bitcoinfees from bitgo",
   "main": "index.js",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "test": ""
   },

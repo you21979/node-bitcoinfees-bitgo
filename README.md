@@ -16,7 +16,7 @@ bitgo.FeesApi.recommended().then(console.log)
 ## result
 
 ```
-{ "fastestFee": 453658, "halfHourFee": 433666, "hourFee": 417641 }
+{ "fastestFee": 453, "halfHourFee": 433, "hourFee": 417 }
 ```
 
 
