@@ -1,0 +1,31 @@
+{
+  "author": "Yuki Akiyama",
+  "name": "bitcoinfees-bitgo",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "request-promise" : "4.1.x",
+    "request": "^2.34"
+  },
+  "readmeFilename": "README.md",
+  "description": "bitcoinfees from bitgo",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/you21979/node-bitcoinfees-bitgo.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "bitgo",
+    "fees"
+  ],
+  "bugs": {
+    "url": "https://github.com/you21979/node-bitcoinfees-bitgo/issues"
+  },
+  "license": "MIT"
+}
